@@ -8,3 +8,9 @@ The SHA256 checksum is: d3d5ba5b7a0e414747ec37c88ff0b6a831e43484cfe615e7ecac8f9d
 dragino-Thai--v5.4.1615252048-squashfs-sysupgrade.bin  is 10354692 bytes long.
 The MD5 checksum is: 68452f24ef630c7d125ec8310d68e6ca
 The SHA256 checksum is: b646d154c210e0115ac9880a95a9daab2c6251774342ef11b884afd7b0de5395
+
+# Dragino-LG308-AS923-TH-EC25-Firmware  TEST2  AWS IOT BASIC STATION
+dragino-Thai--v5.4.1618386335-squashfs-sysupgrade.bin
+The file is 10420228 bytes long.
+The MD5 checksum is: 068b3b11db0d6a5e8e5cab044d0f4807
+The SHA256 checksum is: efd90ff4f1df8343b5e92f6eb9dbe033e054d978996ce4ce782e2ab60f17e1d6
