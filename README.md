@@ -20,3 +20,9 @@ dragino-lgw--v5.4.1678963959-squashfs-sysupgrade.bin
 The file is 10551300 bytes long.
 The MD5 checksum is: 13df9f5252345fff191bf3e61b4cf754
 The SHA256 checksum is: 954900bd7fd304706d18763a9ed468f798e0ccb322269c071b659cf7d34649ba
+
+# Dragino-LG308 International Firmware TEST4  Show Gateway Traffic
+dragino-lgw--v5.4.1689641188-squashfs-sysupgrade.bin
+The file is 10485764 bytes long.
+The MD5 checksum is: d88a540fd9f6535f410e70f8fc5445d5
+The SHA256 checksum is: babe3e260d618db1127a934e0233bf8156588fca80b85bff0160698b011bbdeb
