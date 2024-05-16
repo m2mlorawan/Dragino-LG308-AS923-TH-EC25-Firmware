@@ -1,6 +1,6 @@
 # Dragino-LG308-AS923-TH-EC25-Firmware  STABLE
 
-You uploaded a file named dragino-Thai--v5.4.1715069955-squashfs-sysupgrade.bin
+dragino-Thai--v5.4.1715069955-squashfs-sysupgrade.bin
 The file is 10682372 bytes long.
 The MD5 checksum is: 4216097ac3928f1b552303dc7fb001b6
 The SHA256 checksum is: 8d754f7a58dddbed67328efc9d29df59b1ac6cbbbb3602cb2ac4a1ed8a68c73d
